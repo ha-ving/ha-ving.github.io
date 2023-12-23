@@ -2,5 +2,5 @@
 
 ### local
 
-$ npm run serve
+$ npm run start --poll true
 
