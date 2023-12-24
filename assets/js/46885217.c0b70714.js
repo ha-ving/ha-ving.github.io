@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdev=self.webpackChunkdev||[]).push([[416],{9141:e=>{e.exports=JSON.parse('[{"label":"vsnotes","permalink":"/dev/blog/tags/vsnotes","count":1}]')}}]);
