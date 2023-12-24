@@ -2,5 +2,9 @@
 
 ### local
 
-$ npm run start --poll true
+$ choco install yarn
+
+$ yarn install
+
+$ yarn run start --poll true
 
