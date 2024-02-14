@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdev=self.webpackChunkdev||[]).push([[121],{8070:e=>{e.exports=JSON.parse('[{"label":"note","permalink":"/dev/docs/tags/note","count":1}]')}}]);

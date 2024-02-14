@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdev=self.webpackChunkdev||[]).push([[178],{4979:e=>{e.exports=JSON.parse('{"permalink":"/dev/blog/tags/vsnotes","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
